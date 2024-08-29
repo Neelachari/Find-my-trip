@@ -10,7 +10,7 @@ const Booking = () => {
   return (
     <Box>
       <Box position={"relative"}>
-        <Image src='https://www.covermore.com.au/sites/default/files/16-top-travel-hacks-for-flying.jpg' width={"100%"} height={"40vh"} />
+        <Image src='https://timelinecovers.pro/facebook-cover/download/aircraft-in-red-sunbeams-facebook-cover.jpg' width={"100%"} height={"40vh"} />
         <Text position={"absolute"} top="50%" left={"50%"} transform="translate(-50%, -50%)" textAlign="center" fontSize={'6xl'} color={'white'}>Flight Booking</Text>
       </Box>
       <Box px={6} py={8} textAlign="center">

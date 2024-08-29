@@ -74,7 +74,7 @@ export default function contact() {
   }
 
   return (
-    <Box position={"relative"} bg="#9DC4FB" >
+    <Box position={"relative"} bg="#9DC4FB" pb={"30px"} >
        <Image src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-WNAUHhlGr8XnEddCuYDdKe_lXfbZkV2Y2Q&usqp=CAU' width={"100%"} height={"40vh"} />
         <Text position={"absolute"} top="8%" left={"50%"} transform="translate(-50%, -50%)" textAlign="center" fontSize={'6xl'} color={'white'}>Contact Us</Text>
     <Container bg="#9DC4FB" maxW="full" mt={0} centerContent overflow="hidden" style={{padding:"50px"}}>
@@ -214,11 +214,8 @@ export default function contact() {
         </Box>
       </Flex>
     </Container>
-     <Box>
-      
-      <Popup/>
-     </Box>
-    <Box width="90%" margin="auto" marginBottom="-20px"  >
+    
+    <Box width="90%" margin="auto" marginBottom="-10px"  >
         <DownloadApp/>
       </Box>
     </Box>

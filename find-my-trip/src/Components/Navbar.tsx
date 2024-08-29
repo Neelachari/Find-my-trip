@@ -25,7 +25,7 @@ const Navbar = () => {
 
         <img onClick={() => Navigate('/')} src='https://github.com/imSAJJAKALI/purring-root-8/assets/112471219/be02d43f-211f-4200-8208-a8f4bb0271eb' alt="logo" />
 
-        <Input size='sm' placeholder='Serach for Destinations' border='1px' bg='transparent' borderRadius='25px' />
+        <Input size='sm' color={"white"} placeholder='Serach for Destinations'  _placeholder={{ color: 'white' }} border='1px' bg='transparent' borderRadius='25px' />
       </div>
       <div className={style.navRoutes}>
         <NavLink to="/" className={({ isActive }) => isActive ? `${style.active}` : `${style.notActive}`}>

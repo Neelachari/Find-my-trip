@@ -67,8 +67,8 @@ const Destinations = () => {
   };
 
   return (
-    <Box>
-      <Box position="relative">
+    <Box  pb={"40px"}>
+      <Box position="relative" >
         <Image
           src="https://1.bp.blogspot.com/-nePYI_qummY/YEymIP1AJbI/AAAAAAAABt4/pxSpjSikukE2S6CpvXSE3TrZJvd3hyQQgCLcBGAsYHQ/s1498/beach-1824855_1920.jpg"
           width="100%"
@@ -93,7 +93,7 @@ const Destinations = () => {
             <b>Popular Destinations</b>
           </Text>
           <Spacer />
-          <Select width={{ base: '100%', md: '130px' }} mt={{ base: '4', md: '0' }} onChange={handleChange}>
+          <Select width={{ base: '100%', md: '180px' }} mt={{ base: '4', md: '0' }} onChange={handleChange}>
             <option value="">Select Category</option>
             <option value="beach">Beaches</option>
             <option value="hills-station">Hills Station</option>

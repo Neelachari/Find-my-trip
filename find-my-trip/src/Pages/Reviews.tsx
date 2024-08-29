@@ -8,7 +8,7 @@ const Reviews = () => {
   return (
     <Box>
       <Box position={"relative"}>
-        <Image src='https://media.licdn.com/dms/image/D4E22AQGzpWE1yKtY4Q/feedshare-shrink_800/0/1685433301177?e=1689206400&v=beta&t=CpZ2qa5tw5sesaRmt_GM_lxxuQNOa7GCn7aQzk2yJgk' width={"100%"} height={"40vh"} />
+        <Image src='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ2tzKQb7r6fcGifvp1xzZ8WH1uqW2kZjEOJ4KXcB2XuU494Ix_nb1UbqJX7kNy3KX5obM&usqp=CAU' width={"100%"} height={"40vh"} />
         <Text position={"absolute"} top="50%" left={"50%"} transform="translate(-50%, -50%)" textAlign="center" fontSize={'6xl'} color={'white'}>Reviews</Text>
       </Box>
       <Box width="90%" margin="auto">

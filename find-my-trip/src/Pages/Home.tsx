@@ -136,7 +136,7 @@ const Home = () => {
             <h4>France</h4>
           </div>
           <div className={style.popular_card}>
-            <img src="https://www.who.com.au/media/34685/travelsydneygetty-951374324.jpg?width=720%C2%A2er=0.0,0.0" alt="" />
+            <img src="https://hblimg.mmtcdn.com/content/hubble/img/dhanaulti/mmt/activities/m_activities_dhanaulti_kanatal_l_493_658.jpg" alt="" />
             <h4>Australia</h4>
           </div>
           <div className={style.popular_card}>
@@ -290,7 +290,7 @@ const Home = () => {
             
           </div>
           <div className={style.popular_card}>
-            <img src="https://www.theknotnews.com/wp-content/uploads/2020/02/Shutterstock-Vacation-1500x1200.jpg" alt="" />
+            <img src="https://hblimg.mmtcdn.com/content/hubble/img/discoverbyinterest/mmt/activities/t_ufs/m_Romantic_1_l_649_1000.jpg" alt="" />
             
           </div>
         </div>
@@ -304,13 +304,13 @@ const Home = () => {
         <div className={style.reviewDiv}>
           <div>
             <div className={style.reviewCard}>
-              <img src="https://sp-images.summitpost.org/947006.jpg?auto=format&fit=max&ixlib=php-2.1.1&q=35&w=1024&s=d877834568578388ef13b78e3cd7ba2b" alt="" />
+              <img src="https://images.unsplash.com/photo-1603415526960-f7e0328c63b1?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=334&q=80" alt="" />
               <p><b>Mr.Andrew</b></p>
               <p>&#9733;&#9733;&#9733;&#9733;&#9733;</p>
               <p>Really enjoyed the service of may find my trip never seen such a valuable an amazing service provided bycompany like theseopen cheap trip package andfully very method</p>
             </div>
             <div className={style.reviewCard}>
-              <img src="http://www.venmond.com/demo/vendroid/img/avatar/big.jpg" alt="" />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJEOYUizFAWmEk7Nz2ova09l83DL4TMOudtvzOGQE04rfUJozBiKOmZBtWZycaqa_-ap4&usqp=CAU" alt="" />
               <p><b>Miss.Lucy</b></p>
               <p>&#9733;&#9733;&#9733;&#9733;&#9733;</p>
               <p>Really enjoyed the service of may find my trip never seen such a valuable an amazing service provided bycompany like theseopen cheap trip package andfully very method</p>
@@ -322,7 +322,7 @@ const Home = () => {
               <p>Really enjoyed the service of may find my trip never seen such a valuable an amazing service provided bycompany like theseopen cheap trip package andfully very method</p>
             </div>
             <div className={style.reviewCard}>
-              <img src="http://thenewcode.com/assets/images/thumbnails/sarah-parmenter.jpeg" alt="" />
+              <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxb6V-g3dil6CoACFlD2KmhJbGZGv-_6V4Og&usqp=CAU" alt="" />
               <p><b>Miss. Katy</b></p>
               <p>&#9733;&#9733;&#9733;&#9733;&#9733;</p>
               <p>Really enjoyed the service of may find my trip never seen such a valuable an amazing service provided bycompany like theseopen cheap trip package andfully very method</p>
@@ -333,7 +333,7 @@ const Home = () => {
             <h2>Subscribe To Our Newsletter</h2>
             <p>We will keep your information secret & send you offer updates</p>
             <div>
-              <input type="text" />
+              <input placeholder='Enter your email' type="text" />
               <button>SUBSCRIBE</button>
             </div>
           </div>

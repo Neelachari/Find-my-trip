@@ -3,7 +3,7 @@ import { Box, VStack, HStack, UnorderedList, ListItem, List, Input, Button, Simp
 
 const Footer = () => {
   return (
-    <Box bg="#1071db" color="white" p={8} display="flex" flexDirection={['column', 'column', 'row']} alignItems={['center', 'center', 'flex-start']} justifyContent="space-between" marginTop="20px" marginBottom="-50px">
+    <Box bg="#1071db" color="white" p={8} display="flex" flexDirection={['column', 'column', 'row']} alignItems={['center', 'center', 'flex-start']} justifyContent="space-between" marginTop="-20px" marginBottom="-50px">
       <VStack align={['center', 'center', 'flex-start']} mb={[8, 8, 0]} mr={[0, 0, 8]}>
         <img src="https://github.com/imSAJJAKALI/purring-root-8/assets/112471219/be02d43f-211f-4200-8208-a8f4bb0271eb" alt="" width="250px" />
         <h5>REAL DESIGNS BY REAL ARTISTS</h5>
