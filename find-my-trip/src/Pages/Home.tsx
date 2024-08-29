@@ -136,7 +136,7 @@ const Home = () => {
             <h4>France</h4>
           </div>
           <div className={style.popular_card}>
-            <img src="https://hblimg.mmtcdn.com/content/hubble/img/dhanaulti/mmt/activities/m_activities_dhanaulti_kanatal_l_493_658.jpg" alt="" />
+            <img src="https://i.pinimg.com/736x/0a/66/0b/0a660b4f00b6b0e897e9e5791108489b.jpg" alt="" />
             <h4>Australia</h4>
           </div>
           <div className={style.popular_card}>
