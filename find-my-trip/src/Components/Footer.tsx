@@ -46,7 +46,7 @@ const Footer = () => {
       </HStack>
 
       <HStack alignItems="center" flexWrap={['wrap', 'wrap', 'nowrap']}>
-        <Input borderRadius={20} placeholder="EMAIL ADDRESS" mb={[4, 4, 0]} />
+        <Input borderRadius={20}  placeholder="EMAIL ADDRESS"  _placeholder={{ color: "white" }} mb={[4, 4, 0]} />
         <Button colorScheme="orange" borderRadius={20}>
           Send
         </Button>

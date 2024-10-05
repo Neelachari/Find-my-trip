@@ -55,7 +55,7 @@ function PaymentPage() {
       <br />
       <br />
       <br />
-      <Box maxWidth="500px" mx="auto" p={4} border="3px solid teal" zIndex={5}>
+      <Box maxWidth="500px" mx="auto" p={4} border="3px solid teal" zIndex={5} mb={140}>
         <FormControl mb={4}>
           <FormLabel>Select Payment Method</FormLabel>
           <RadioGroup onChange={handlePaymentOptionChange} value={selectedOption}>
